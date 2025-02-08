@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "entryPoint": "./scr/App.jsx",
+    "extra": {
+      "eas": {
+        "projectId": "cf10bdbf-1dc8-47d3-a6c3-efd752d96d1d"
+      }
+    }
+  }
+}
+

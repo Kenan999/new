@@ -1,0 +1,5 @@
+{
+  "appId": "com.kenan.myapp",
+  "appName": "My Counter App",
+  "webDir": "dist"
+}
